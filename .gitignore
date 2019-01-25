@@ -54,3 +54,10 @@ zip.dir/
 test/test.exe.vcxproj.filters
 test/test.exe.vcxproj
 test/test.exe.dir/
+
+buck-out
+.buckd
+buckaroo
+buckaroo_macros.bzl
+.buckconfig.d
+.buckconfig.local
